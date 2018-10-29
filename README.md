@@ -12,3 +12,7 @@ Abmaße: 36 x 24 mm
 [Software je nach Projekt](https://github.com/jp112sdl) von Jérôme
 
 ![complete](Images/Mini.jpg)
+
+![complete](Images/Mini2.jpg)
+
+![complete](Images/Mini3.jpg)
